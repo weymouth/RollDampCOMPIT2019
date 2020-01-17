@@ -1,0 +1,2 @@
+# RollDampCOMPIT2019
+Code and PDF for COMPIT 2019
